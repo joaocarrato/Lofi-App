@@ -84,7 +84,12 @@ class _RegisterPageState extends State<RegisterPage> {
                       children: [
                         IconButton(
                           onPressed: () {
-                            Navigator.pop(context);
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => const IsLogged(),
+                              ),
+                            );
                           },
                           icon: const Icon(
                             Icons.arrow_back,

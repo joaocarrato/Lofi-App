@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778201268218",
+    "project_id": "lofi-app-123",
+    "storage_bucket": "lofi-app-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778201268218:android:9e710e297e43448f8a6e43",
+        "android_client_info": {
+          "package_name": "com.example.lofi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkx1SkY_ZbedJ2jW7q4Xq9vgFj3_4-Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

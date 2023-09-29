@@ -1,16 +1,12 @@
 # lofi_app
 
-A new Flutter project.
+Projeto em flutter baseado em músicas de lofi.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto está ainda em construção, até agora temos a parte de autenticação de usuário com email/senha. 
+Backend está sendo usado o package do Firebase. 
 
-A few resources to get you started if this is your first Flutter project:
+Em futuras atualizações implementaremos a função "esqueci a senha", e uma atualização de status para quando for registrar, se a senha estiver incorreta haverá uma mensagem para o usuario.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Adicionarei também a página pós login, com as músicas e a função de procurar por determinada na música que esteja no aplicativo, junto com o nome e descrição.
